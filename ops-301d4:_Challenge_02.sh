@@ -14,9 +14,9 @@ echo Enter permission number
 read input2
 
 #changing permissions
-chmod -R $input2 ~/$input
+chmod -R $input2 $input
 
 #printing directory contents and permissions
-ls -l ~/$input
+ls -l $input
 
 #end
