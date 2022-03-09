@@ -1,4 +1,4 @@
-#1/bin/python3
+#!/bin/python3
 #Class 7 Python Script
 #DJ Choi
 #3/8/2022
