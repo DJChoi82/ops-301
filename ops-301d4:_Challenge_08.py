@@ -13,7 +13,7 @@ list1 = ["carrot", "spinash", "cabbage", "tomato", "celery", "peas", "apple", "c
 print(list1[3])
 print(list1[5:10])
 
-#changing 
+#changing a string on the list
 list1[6] = "onion"
 
 #end
