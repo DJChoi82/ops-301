@@ -6,6 +6,6 @@
 #main
 
 #add user
-PS C:\> New-ADUser -Name "Franz Ferdinand" -Title “TPS Reporting Lead” -Company “GlobeX USA” -Office “Springfield, OR” -Department “TPS Department” -EmailAddress “ferdi@GlobeXpower.com”
+New-ADUser -Name "Franz Ferdinand" -Title “TPS Reporting Lead” -Company “GlobeX USA” -Office “Springfield, OR” -Department “TPS Department” -EmailAddress “ferdi@GlobeXpower.com”
 
 #end
