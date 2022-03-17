@@ -5,6 +5,7 @@ import os
 #importing datetime library
 import datetime
 
+#assigning varible signature to virus
 SIGNATURE = "VIRUS"
 
 def locate(path):
